@@ -4,7 +4,7 @@
 
 
 ``` Pascal
-programm programm_name;
+program program_name;
 begin
 	writeln('Hello world!');
 end
